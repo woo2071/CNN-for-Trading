@@ -5,9 +5,9 @@ DATASET:
   START_DATE: 20091231
   END_DATE: 20111231
   INDICATORS: 
-    # - NAME: MA
-    # - PARAM: 20 # using data augmentation
-  SHOW_VOLUME: False # using data augmentation
+     - NAME: MA
+     - PARAM: 20 # using data augmentation
+  SHOW_VOLUME: True # using data augmentation
   SAMPLE_RATE: 0.2
 #  PARALLEL_NUM: 32
   PARALLEL_NUM: -1
